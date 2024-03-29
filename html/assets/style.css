@@ -274,6 +274,7 @@ display: none;
     }
 
     .banner-middle {
+        margin-top: 80px;
         text-align: center;
     }
 }
